@@ -1,0 +1,8 @@
+scenario_id,expected_outcome,actual_outcome,answer,steps,correct
+S1,REFUND,REFUND,REFUND: INR 128.25 issued.,4,True
+S2,REFUND,REFUND,REFUND: INR 135.0 issued.,4,True
+S3,ESCALATE,ESCALATE,ESCALATE: refund above INR 1000 sent to a human lead.,4,True
+S4,DENIED,DENIED,DENIED: delivery was within 45 minutes.,3,True
+S5,DENIED,DENIED,DENIED: only completed orders can be refunded.,2,True
+S6,NOT_FOUND,NOT_FOUND,NOT_FOUND: no such order.,1,True
+S7,FALLBACK,FALLBACK,FALLBACK: Maximum agent steps reached.,6,True

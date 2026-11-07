@@ -1,0 +1,31 @@
+city,category,revenue,pandas_revenue,difference
+Bengaluru,Dairy,87075.05,87075.05,0.0
+Bengaluru,Electronics,233909.45,233909.45,0.0
+Bengaluru,Grocery,110915.65,110915.65,0.0
+Bengaluru,Personal Care,20193.85,20193.85,0.0
+Bengaluru,Snacks,71549.4,71549.4,0.0
+Chennai,Dairy,78301.8,78301.8,0.0
+Chennai,Electronics,195508.8,195508.8,0.0
+Chennai,Grocery,93817.45,93817.45,0.0
+Chennai,Personal Care,27675.4,27675.4,0.0
+Chennai,Snacks,68325.7,68325.7,0.0
+Delhi,Dairy,117271.7,117271.7,0.0
+Delhi,Electronics,158549.1,158549.1,0.0
+Delhi,Grocery,112658.05,112658.05,0.0
+Delhi,Personal Care,23471.5,23471.5,0.0
+Delhi,Snacks,90879.45,90879.45,0.0
+Hyderabad,Dairy,83731.0,83731.0,0.0
+Hyderabad,Electronics,228913.1,228913.1,0.0
+Hyderabad,Grocery,109475.4,109475.4,0.0
+Hyderabad,Personal Care,24800.05,24800.05,0.0
+Hyderabad,Snacks,81670.35,81670.35,0.0
+Mumbai,Dairy,75209.85,75209.85,0.0
+Mumbai,Electronics,214738.4,214738.4,0.0
+Mumbai,Grocery,78970.15,78970.15,0.0
+Mumbai,Personal Care,38018.0,38018.0,0.0
+Mumbai,Snacks,72122.1,72122.1,0.0
+Pune,Dairy,90349.55,90349.55,0.0
+Pune,Electronics,187629.25,187629.25,0.0
+Pune,Grocery,108456.6,108456.6,0.0
+Pune,Personal Care,34275.15,34275.15,0.0
+Pune,Snacks,80207.5,80207.5,0.0

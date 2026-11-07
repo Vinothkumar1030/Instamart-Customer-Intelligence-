@@ -1,0 +1,17 @@
+feature,importance
+num__orders_last_30_days,0.3289320210297602
+num__days_since_last_order,0.22021368334112348
+num__avg_delivery_minutes,0.14992487835269727
+num__tenure_days,0.07867806241262412
+num__age,0.07486086030876515
+cat__favorite_category_Electronics,0.038228074746014265
+cat__favorite_category_Personal Care,0.030415595681543114
+cat__gender_Male,0.018959197091448138
+cat__favorite_category_Grocery,0.015062731875165993
+cat__favorite_category_Snacks,0.012456501814013247
+cat__city_Pune,0.00729434300579795
+cat__city_Mumbai,0.006987126725124533
+cat__city_Delhi,0.006948154168851072
+cat__city_Hyderabad,0.0055104505526628956
+cat__city_Chennai,0.005351469135456436
+cat__gender_Unknown,0.0001768497589521359
